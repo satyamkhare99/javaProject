@@ -27,3 +27,7 @@ How it looks:-
 Class Diagram:-
 ![](gharGrahasthi/class_diagram.gif) 
 
+(1)In this Class Diagram All classes are associated with Object class.
+(2)We use DAO(Data Access Object)format and everything is done through Object.
+(3)Every class uses other class methods by creating their objects so they are not directly associated to each other except for ShoppingDao class and Connection class because ShoppingDao class use static method getConnection() of ConnectionClass so ShoppingDao class has a Dependency on ConnectionClass,therefore it shows a dotted line.
+
