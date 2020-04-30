@@ -11,6 +11,13 @@ HTML,JSP,CSS,Java,MySql,Tomcat server.
 Architecture:-
 It follow MVC architecture embedded with DAO(Data Access Object).
 
+![](mvcDAO.png)
+
+(1) The Model part is in java class.
+(2) The View part is in HTML and JSP.
+(3) The Controller part is in JSP.
+(4) DAO(Data Access Object) is used to Store and Retrive data from database.
+
 Advantages:-
 As we all know Corona virus is spreading rapidly therefore we should not go outside so user can order vegetables and Groceries packages online by using our site without going outside.
 
