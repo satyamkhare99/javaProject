@@ -15,7 +15,7 @@ Advantages:-
 As we all know Corona virus is spreading rapidly therefore we should not go outside so user can order vegetables and Groceries packages online by using our site without going outside.
 
 How it looks:-
-
+![](index.png)
 
 Class Diagram:-
 ![](gharGrahasthi/class_diagram.gif) 
